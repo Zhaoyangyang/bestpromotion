@@ -7,6 +7,7 @@
     + 说一下泛型原理，并举例说明
 + Android
     + JIT、AOT、Dalvik、ART的理解
+    + Android 安全机制
 
 
 2.应聘者相关问题
