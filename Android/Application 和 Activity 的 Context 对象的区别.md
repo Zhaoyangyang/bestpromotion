@@ -2,7 +2,7 @@
 
 + （1）类的继承关系不一样
 
-![类图](../res/20190531205848781.jpg)
+![类图](https://github.com/Zhaoyangyang/bestpromotion/blob/master/res/20190531205848781.jpg)
 
 
 + （2）生命周期不一样
@@ -11,4 +11,4 @@
 
 + （3）作用场景不一样
 
-![使用场景](../res/20180410160916195.png) 
+![使用场景](https://github.com/Zhaoyangyang/bestpromotion/blob/master/res/20180410160916195.png) 
