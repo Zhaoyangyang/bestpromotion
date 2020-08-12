@@ -1,6 +1,6 @@
 # bestPromotion
 
-.![关注我们](../res/ddb094018660c3cd2682488361aedf9e_15241.png)
+.![关注我们](res/ddb094018660c3cd2682488361aedf9e_15241.png)
 
 1.应聘者无关问题
 
